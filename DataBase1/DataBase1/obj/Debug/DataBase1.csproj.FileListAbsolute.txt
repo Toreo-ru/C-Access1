@@ -1,0 +1,11 @@
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\bin\Debug\DataBase1.exe.config
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\bin\Debug\DataBase1.exe
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\bin\Debug\DataBase1.pdb
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.csprojResolveAssemblyReference.cache
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.Form1.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.Properties.Resources.resources
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.csproj.GenerateResource.Cache
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.exe
+c:\users\константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.pdb
+C:\Users\Константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.Form2.resources
+C:\Users\Константин\documents\visual studio 2013\Projects\DataBase1\DataBase1\obj\Debug\DataBase1.Form3.resources
